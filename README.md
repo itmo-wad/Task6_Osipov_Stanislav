@@ -1,3 +1,3 @@
-# Task5_Osipov_Stanislav<br>
-Have done optimal part<br>
-Store User avatar in cookie
+# Task6_Osipov_Stanislav<br>
+Have done basic part<br>
+Created dockerfile1 and dockercompose.yml
