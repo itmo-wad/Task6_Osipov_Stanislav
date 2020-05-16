@@ -1,0 +1,12 @@
+version: "3.2"
+services:
+ flask-silmple:
+  build:
+   dockerfile: Dockerfile1
+   context: .
+  command: python3 app.py
+  volumes:
+    - ./src:/usr/src/app
+ mongodb:
+  image: mongo
+
